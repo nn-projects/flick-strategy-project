@@ -105,9 +105,9 @@ Flick's hygiene division faced critical strategic gaps:
 
 ## 🔗 **Documentation**
 
-- [**Final Strategic Report**](https://github.com/nn-projects/flick-strategy-project/blob/main/Flick_report.pdf) - Comprehensive analysis and recommendations  
-- [**Executive Presentation**](https://github.com/nn-projects/flick-strategy-project/blob/main/Flick_presentation.pptx) - Key findings and strategic roadmap  
-- [**Data Analytics Portfolio**](https://github.com/nn-projects/flick-strategy-project/blob/main/data.html) - R scripts and Excel models used in analysis  
+- [**Final Strategic Report**](https://nn-projects.github.io/flick-strategy-project/main/Flick_report.pdf) - Comprehensive analysis and recommendations  (click to download)
+- [**Executive Presentation**](https://nn-projects.github.io/flick-strategy-project/Flick_presentation.pptx) - Key findings and strategic roadmap  (click to download)
+- [**Data Analytics Portfolio**](https://nn-projects.github.io/flick-strategy-project/data.html) - R scripts and Excel models used in analysis  
 
 ---
 
